@@ -237,6 +237,9 @@ Tutorial_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 Tutorial_SOURCE_DIR:STATIC=/Users/nebula/Documents/Codes/Personal/CMake-Tutorial/Step2/code
 
+//ON
+USE_MYMATH:BOOL=OFF
+
 
 ########################
 # INTERNAL cache entries
