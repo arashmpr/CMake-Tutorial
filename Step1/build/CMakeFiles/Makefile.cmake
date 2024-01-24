@@ -10,7 +10,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.28.0/CMakeCCompiler.cmake"
   "CMakeFiles/3.28.0/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.28.0/CMakeSystem.cmake"
-  "/Users/nebula/Documents/Codes/Personal/CMake-Tutorial/Step1/code/CMakeLists.txt"
+  "/Users/nebula/Documents/Codes/Personal/CMake-Tutorial/Step3/code/CMakeLists.txt"
+  "/Users/nebula/Documents/Codes/Personal/CMake-Tutorial/Step3/code/TutorialConfig.h.in"
   "/opt/homebrew/Cellar/cmake/3.28.0/share/cmake/Modules/CMakeCCompiler.cmake.in"
   "/opt/homebrew/Cellar/cmake/3.28.0/share/cmake/Modules/CMakeCCompilerABI.c"
   "/opt/homebrew/Cellar/cmake/3.28.0/share/cmake/Modules/CMakeCInformation.cmake"
@@ -123,6 +124,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/3.28.0/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.28.0/CMakeCCompiler.cmake"
   "CMakeFiles/3.28.0/CMakeCXXCompiler.cmake"
+  "TutorialConfig.h"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
